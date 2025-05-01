@@ -1,0 +1,35 @@
+C:\Users\katal\Desktop\Software\Market Application\bin\Debug\net8.0-windows\Market Application.exe
+C:\Users\katal\Desktop\Software\Market Application\bin\Debug\net8.0-windows\Market Application.deps.json
+C:\Users\katal\Desktop\Software\Market Application\bin\Debug\net8.0-windows\Market Application.runtimeconfig.json
+C:\Users\katal\Desktop\Software\Market Application\bin\Debug\net8.0-windows\Market Application.dll
+C:\Users\katal\Desktop\Software\Market Application\bin\Debug\net8.0-windows\Market Application.pdb
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market_Application.Form1.resources
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market_Application.Properties.Resources.resources
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market Application.csproj.GenerateResource.cache
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market Application.AssemblyInfoInputs.cache
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market Application.AssemblyInfo.cs
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market Application.csproj.CoreCompileInputs.cache
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market Application.dll
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\refint\Market Application.dll
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market Application.pdb
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market Application.genruntimeconfig.cache
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\ref\Market Application.dll
+C:\Users\katal\Desktop\Software\Market Application\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\katal\Desktop\Software\Market Application\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\katal\Desktop\Software\Market Application\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\katal\Desktop\Software\Market Application\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\katal\Desktop\Software\Market Application\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\katal\Desktop\Software\Market Application\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market Application.csproj.AssemblyReference.cache
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market A.4F96A11C.Up2Date
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market_Application.ChangePassword.resources
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market_Application.AdminScreen.resources
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market_Application.CashierScreen.resources
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market_Application.FruitAndVegetables.resources
+C:\Users\katal\Desktop\Software\Market Application\bin\Debug\net8.0-windows\AForge.dll
+C:\Users\katal\Desktop\Software\Market Application\bin\Debug\net8.0-windows\AForge.Video.dll
+C:\Users\katal\Desktop\Software\Market Application\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+C:\Users\katal\Desktop\Software\Market Application\bin\Debug\net8.0-windows\zxing.dll
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market_Application.UserScreen.resources
+C:\Users\katal\Desktop\Software\Market Application\obj\Debug\net8.0-windows\Market_Application.ProductScreen.resources
