@@ -50,4 +50,4 @@ The solution uses a **N-Tier / Layered Architecture** pattern to separate concer
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Market-Application.git
+   git clone https://github.com/Tamer877/Market-Application.git
