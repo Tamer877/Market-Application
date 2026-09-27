@@ -46,8 +46,3 @@ The solution uses a **N-Tier / Layered Architecture** pattern to separate concer
 
 ---
 
-## ⚙️ Database & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Tamer877/Market-Application.git
