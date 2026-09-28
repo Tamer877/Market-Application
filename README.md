@@ -41,7 +41,7 @@ The solution uses a **N-Tier / Layered Architecture** pattern to separate concer
 - **Language:** C# (.NET Framework)
 - **UI Framework:** Windows Forms (WinForms)
 - **Database:** Microsoft SQL Server
-- **Data Access:** ADO.NET (Raw T-SQL & Stored Procedures)
+- **Data Access:** ADO.NET (Raw SQL & Stored Procedures)
 - **IDE:** Visual Studio
 
 ---
