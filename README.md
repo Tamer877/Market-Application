@@ -17,8 +17,6 @@ A desktop-based retail and inventory management application developed with **C# 
   - Tracking attributes: weight, unit pricing, turnover rates, and timestamps (creation & updates).
 - **User Management (Admin Dashboard):**
   - Create, update, and manage employee accounts, regional assignments, and access privileges.
-- **Cashier POS Interface:**
-  - Quick barcode-based product lookup for checkout handling.
 - **Dedicated Categories:**
   - Specialized module/screen for fresh produce (Fruits & Vegetables).
 
