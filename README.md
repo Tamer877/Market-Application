@@ -13,7 +13,7 @@ A desktop-based retail and inventory management application developed with **C# 
   - Security question/answer authentication for password recovery.
 - **Product & Inventory Management:**
   - Full CRUD operations for product catalogs.
-  - Barcode and QR code identification support.
+  - Barcode and product code identification support.
   - Tracking attributes: weight, unit pricing, turnover rates, and timestamps (creation & updates).
 - **User Management (Admin Dashboard):**
   - Create, update, and manage employee accounts, regional assignments, and access privileges.
